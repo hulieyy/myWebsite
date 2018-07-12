@@ -1,0 +1,14 @@
+h2 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+#pickupline {
+  color: black;
+}
+body{
+  text-align: center;
+  background-image: url("https://78.media.tumblr.com/20b34e8d12d4230f9b362d7feb148c57/tumblr_oiwytz4dh41tf8vylo1_1280.png");
+  background-repeat: no-repeat;
+  background-size: 8500px 8500px;
+}
